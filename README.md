@@ -3,7 +3,7 @@
 
 The Stubs and Drivers Generation Tool is a web application that facilitates the creation of stubs and drivers by analyzing UML sequence and class diagrams. This tool is particularly useful during the unit testing phase of software development, as it automates the generation of essential testing components based on the relationships and interactions defined in UML diagrams.
 
-Here is a report i wrote about a tool which generated stubs and drivers depending upon your XML class diagrams automaticaly and provides smooth integration in software testing.
+Here is a report i wrote about this tool which generated stubs and drivers depending upon your XML class diagrams automaticaly and provides smooth integration in software testing.
 
 This report was a part of my coursework for the course CSN-291(Object Oriented Analysis and Design).
 
